@@ -1,0 +1,349 @@
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+  usr: (src)
+  src: {NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout)
+  src.loc: the snow (915,742,1) (/turf/grounds/snow)
+  call stack:
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Attack(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Combats(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Bump(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): RandomWalk(1)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): WalkTo(1)
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+  usr: (src)
+  src: {NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout)
+  src.loc: the snow (921,754,1) (/turf/grounds/snow)
+  call stack:
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Attack(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Combats(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Bump(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): RandomWalk(1)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): WalkTo(1)
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+  usr: (src)
+  src: {NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin)
+  src.loc: the snow (869,707,1) (/turf/grounds/snow)
+  call stack:
+{NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin): Attack(null)
+{NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin): Combats(null)
+{NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin): Bump(null)
+{NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin): RandomWalk(1)
+{NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin): WalkTo(1)
+Map saved as My Map.map! (Time: 541.2 seconds)
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+  usr: (src)
+  src: {NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin)
+  src.loc: the grass (821,768,1) (/turf/grounds/grass)
+  call stack:
+{NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin): Attack(null)
+{NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin): Combats(null)
+{NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin): Bump(null)
+{NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin): RandomWalk(1)
+{NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin): WalkTo(1)
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+  usr: (src)
+  src: {NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout)
+  src.loc: the snow (973,772,1) (/turf/grounds/snow)
+  call stack:
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Attack(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Combats(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Bump(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): RandomWalk(1)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): WalkTo(1)
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+  usr: (src)
+  src: {NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout)
+  src.loc: the snow (996,768,1) (/turf/grounds/snow)
+  call stack:
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Attack(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Combats(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Bump(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): RandomWalk(1)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): WalkTo(1)
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+  usr: (src)
+  src: {NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin)
+  src.loc: the snow (883,675,1) (/turf/grounds/snow)
+  call stack:
+{NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin): Attack(null)
+{NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin): Combats(null)
+{NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin): Bump(null)
+{NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin): RandomWalk(1)
+{NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin): WalkTo(1)
+runtime error: Cannot execute null.SunLight().
+proc name: Entered (/turf/grounds/Entered)
+  usr: null
+  src: the desert (402,514,1) (/turf/grounds/desert)
+  call stack:
+the desert (402,514,1) (/turf/grounds/desert): Entered(null, the desert (401,513,1) (/turf/grounds/desert))
+New(the desert (464,466,1) (/turf/grounds/desert))
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+  usr: (src)
+  src: {NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout)
+  src.loc: the snow (953,737,1) (/turf/grounds/snow)
+  call stack:
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Attack(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Combats(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Bump(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): RandomWalk(1)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): WalkTo(1)
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+  usr: (src)
+  src: {NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout)
+  src.loc: the snow (983,787,1) (/turf/grounds/snow)
+  call stack:
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Attack(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Combats(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Bump(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): RandomWalk(1)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): WalkTo(1)
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+  usr: (src)
+  src: {NPC Alliance} Human Scout (/mob/Monsters/Human/NPC/Scout)
+  src.loc: the snow (908,766,1) (/turf/grounds/snow)
+  call stack:
+{NPC Alliance} Human Scout (/mob/Monsters/Human/NPC/Scout): Attack(null)
+{NPC Alliance} Human Scout (/mob/Monsters/Human/NPC/Scout): Combats(null)
+{NPC Alliance} Human Scout (/mob/Monsters/Human/NPC/Scout): Bump(null)
+{NPC Alliance} Human Scout (/mob/Monsters/Human/NPC/Scout): RandomWalk(1)
+{NPC Alliance} Human Scout (/mob/Monsters/Human/NPC/Scout): WalkTo(1)
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+  usr: (src)
+  src: {NPC Alliance} Human Scout (/mob/Monsters/Human/NPC/Scout)
+  src.loc: the grass (760,767,1) (/turf/grounds/grass)
+  call stack:
+{NPC Alliance} Human Scout (/mob/Monsters/Human/NPC/Scout): Attack(null)
+{NPC Alliance} Human Scout (/mob/Monsters/Human/NPC/Scout): Combats(null)
+{NPC Alliance} Human Scout (/mob/Monsters/Human/NPC/Scout): Bump(null)
+{NPC Alliance} Human Scout (/mob/Monsters/Human/NPC/Scout): RandomWalk(1)
+{NPC Alliance} Human Scout (/mob/Monsters/Human/NPC/Scout): WalkTo(1)
+runtime error: Cannot execute null.SunLight().
+proc name: Entered (/turf/grounds/Entered)
+  usr: null
+  src: the snow (912,434,1) (/turf/grounds/snow)
+  call stack:
+the snow (912,434,1) (/turf/grounds/snow): Entered(null, the snow (913,435,1) (/turf/grounds/snow))
+New(the snow (962,419,1) (/turf/grounds/snow))
+runtime error: Cannot execute null.SunLight().
+proc name: Entered (/turf/grounds/Entered)
+  usr: null
+  src: the snow (976,584,1) (/turf/grounds/snow)
+  call stack:
+the snow (976,584,1) (/turf/grounds/snow): Entered(null, the snow (977,584,1) (/turf/grounds/snow))
+New(the snow (941,643,1) (/turf/grounds/snow))
+runtime error: Cannot read null.overlays
+proc name: Attack (/mob/proc/Attack)
+  usr: (src)
+  src: {NPC Frogmen} Frogman Warrior (/mob/Monsters/Frogman/NPC/Warrior)
+  src.loc: the marsh (177,746,1) (/turf/grounds/marsh)
+  call stack:
+{NPC Frogmen} Frogman Warrior (/mob/Monsters/Frogman/NPC/Warrior): Attack(null)
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+  usr: (src)
+  src: {NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout)
+  src.loc: the snow (969,787,1) (/turf/grounds/snow)
+  call stack:
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Attack(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Combats(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Bump(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): RandomWalk(1)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): WalkTo(1)
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+  usr: (src)
+  src: {NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout)
+  src.loc: the snow (986,775,1) (/turf/grounds/snow)
+  call stack:
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Attack(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Combats(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Bump(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): RandomWalk(1)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): WalkTo(1)
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+  usr: (src)
+  src: {NPC Alliance} Human Scout (/mob/Monsters/Human/NPC/Scout)
+  src.loc: the grass (797,775,1) (/turf/grounds/grass)
+  call stack:
+{NPC Alliance} Human Scout (/mob/Monsters/Human/NPC/Scout): Attack(null)
+{NPC Alliance} Human Scout (/mob/Monsters/Human/NPC/Scout): Combats(null)
+{NPC Alliance} Human Scout (/mob/Monsters/Human/NPC/Scout): Bump(null)
+{NPC Alliance} Human Scout (/mob/Monsters/Human/NPC/Scout): RandomWalk(1)
+{NPC Alliance} Human Scout (/mob/Monsters/Human/NPC/Scout): WalkTo(1)
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+  usr: (src)
+  src: {NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout)
+  src.loc: the snow (944,804,1) (/turf/grounds/snow)
+  call stack:
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Attack(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Combats(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Bump(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): RandomWalk(1)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): WalkTo(1)
+runtime error: Cannot read null.overlays
+proc name: Attack (/mob/proc/Attack)
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+runtime error: Cannot read null.overlays
+proc name: Attack (/mob/proc/Attack)
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+runtime error: Cannot execute null.SunLight().
+proc name: Entered (/turf/grounds/Entered)
+runtime error: Cannot execute null.SunLight().
+proc name: Entered (/turf/grounds/Entered)
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+runtime error: Cannot execute null.SunLight().
+proc name: Entered (/turf/grounds/Entered)
+runtime error: Cannot read null.overlays
+proc name: Attack (/mob/proc/Attack)
+  usr: (src)
+  src: {NPC Lizardmen} Lizardmen Scou... (/mob/Monsters/Lizardman/NPCLizardMan/Scout)
+  src.loc: the marsh (177,744,1) (/turf/grounds/marsh)
+  call stack:
+{NPC Lizardmen} Lizardmen Scou... (/mob/Monsters/Lizardman/NPCLizardMan/Scout): Attack(null)
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+  usr: (src)
+  src: {NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin)
+  src.loc: the grass (845,703,1) (/turf/grounds/grass)
+  call stack:
+{NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin): Attack(null)
+{NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin): Combats(null)
+{NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin): Bump(null)
+{NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin): RandomWalk(1)
+{NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin): WalkTo(1)
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+  usr: (src)
+  src: {NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin)
+  src.loc: the grass (833,697,1) (/turf/grounds/grass)
+  call stack:
+{NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin): Attack(null)
+{NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin): Combats(null)
+{NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin): Bump(null)
+{NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin): RandomWalk(1)
+{NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin): WalkTo(1)
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+  usr: (src)
+  src: {NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout)
+  src.loc: the snow (960,771,1) (/turf/grounds/snow)
+  call stack:
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Attack(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Combats(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Bump(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): RandomWalk(1)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): WalkTo(1)
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+  usr: (src)
+  src: {NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout)
+  src.loc: the snow (962,771,1) (/turf/grounds/snow)
+  call stack:
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Attack(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Combats(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Bump(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): RandomWalk(1)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): WalkTo(1)
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+  usr: (src)
+  src: {NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin)
+  src.loc: the snow (886,692,1) (/turf/grounds/snow)
+  call stack:
+{NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin): Attack(null)
+{NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin): Combats(null)
+{NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin): Bump(null)
+{NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin): RandomWalk(1)
+{NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin): WalkTo(1)
+runtime error: Cannot read null.overlays
+proc name: Attack (/mob/proc/Attack)
+  usr: (src)
+  src: {NPC Lizardmen} Lizardmen Scou... (/mob/Monsters/Lizardman/NPCLizardMan/Scout)
+  src.loc: Tribal Floor (178,740,1) (/turf/grounds/WoodFloor)
+  call stack:
+{NPC Lizardmen} Lizardmen Scou... (/mob/Monsters/Lizardman/NPCLizardMan/Scout): Attack(null)
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+  usr: (src)
+  src: {NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin)
+  src.loc: the grass (716,783,1) (/turf/grounds/grass)
+  call stack:
+{NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin): Attack(null)
+{NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin): Combats(null)
+{NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin): Bump(null)
+{NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin): RandomWalk(1)
+{NPC Alliance} Human Paladin (/mob/Monsters/Human/NPC/Paladin): WalkTo(1)
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+  usr: (src)
+  src: {NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout)
+  src.loc: the snow (952,767,1) (/turf/grounds/snow)
+  call stack:
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Attack(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Combats(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Bump(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): RandomWalk(1)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): WalkTo(1)
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+  usr: (src)
+  src: {NPC Alliance} Dwarven Guard (/mob/Monsters/Dwarf/NPC/Guard)
+  src.loc: the grass (634,414,1) (/turf/grounds/grass)
+  call stack:
+{NPC Alliance} Dwarven Guard (/mob/Monsters/Dwarf/NPC/Guard): Attack(null)
+{NPC Alliance} Dwarven Guard (/mob/Monsters/Dwarf/NPC/Guard): Combats(null)
+{NPC Alliance} Dwarven Guard (/mob/Monsters/Dwarf/NPC/Guard): Bump(null)
+{NPC Alliance} Dwarven Guard (/mob/Monsters/Dwarf/NPC/Guard): GuardWalk(1)
+runtime error: Cannot execute null.LimbFling().
+proc name: Attack (/mob/proc/Attack)
+  usr: (src)
+  src: {NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout)
+  src.loc: the grass (416,228,1) (/turf/grounds/grass)
+  call stack:
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Attack(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Combats(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): Bump(null)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): RandomWalk(1)
+{NPC Kobolds} Kobold Scout (/mob/Monsters/Kobold/NPC/Scout): WalkTo(1)
+runtime error: Cannot read null.overlays
+proc name: Attack (/mob/proc/Attack)
+  usr: (src)
+  src: {NPC Lizardmen} Lizardmen Warr... (/mob/Monsters/Lizardman/NPCLizardMan/Warrior)
+  src.loc: Tribal Floor (178,739,1) (/turf/grounds/WoodFloor)
+  call stack:
+{NPC Lizardmen} Lizardmen Warr... (/mob/Monsters/Lizardman/NPCLizardMan/Warrior): Attack(null)
